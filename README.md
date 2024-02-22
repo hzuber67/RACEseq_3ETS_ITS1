@@ -1,4 +1,4 @@
-# RACEseq_rRNA : Script for RACEseq analysis (pre-rRNA)
+# RACEseq_rRNA : Scripts for RACEseq analysis (pre-rRNA)
 *Version 022024*
 
 Copyright (c) 2016-2024 Institute of Plant Molecular Biology, Strasbourg, CNRS
